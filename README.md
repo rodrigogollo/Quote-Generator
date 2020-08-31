@@ -1,7 +1,8 @@
-# Quote-Generator
+# Quote Generator - [Live Demo](https://rodrigogollo.github.io/Quote-Generator/)
 ### Quote Generator via API with Tweet Quote Functionality
 
 This is the first project from the Udemy Course: [**JavaScript Web Projects: 20 Projects to Build Your Portfolio**](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)
+
 
 #### Lessons Learned: 
 - The use of raw Javascript fetch.
